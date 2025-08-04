@@ -14,6 +14,11 @@
 **Gestão em Segurança do Trabalho**  
 📅 mar/2022 - dez/2022  
 📍 _Curso focado em NRs e NBRs para qualidade de vida e saúde ocupacional_
+### FAV-UNIFAV - Faculdade do Vale
+**Sequencial em Automação Industrial**  
+📅 mar/2022 - dez/2022  
+📍 _Curso focado em NRs e NBRs para qualidade de vida e saúde ocupacional_
+
 
 ## 🏆 Certificações
 
@@ -21,8 +26,8 @@
 |------------|---------|------|
 | [Análise de Dados em R](https://www.enap.gov.br) | ENAP | ago/2025 |
 | [Excel Avançado](https://www.enap.gov.br) | ENAP | jul/2025 |
-| [Python Completo](https://dankicode.com) | Danki Code | jul/2025 |
-
+| [Python Completo](https://cursos.dankicode.com/validate-certificate) | Danki Code | jul/2025 |
+|[ Invasão de Redes Wi-fi](https://cursos.dankicode.com/validate-certificate) | Danki Code | jul/2025 
 🔑 Credencial Python: `d6703eb4-104a-48df-a877-2a57501ae595`
 
 ## 💻 Habilidades Técnicas
@@ -30,5 +35,5 @@
 ```text
 📊 Análise de Dados: Python (Pandas, NumPy), R, Excel
 💻 Programação: Python, JavaScript (Básico)
-🗃️ Banco de Dados: SQL, MySQL
+🗃️ Banco de Dados: SQL, MySQL, Analise de Dados Avançados do Google(cursando), Analise de Dados IBM (cursando) 
 🛠️ Ferramentas: Git, VS Code, Jupyter Notebook
