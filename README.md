@@ -17,7 +17,7 @@
 ### FAV-UNIFAV - Faculdade do Vale
 **Sequencial em Automação Industrial**  
 📅 mar/2022 - dez/2022  
-📍 _Curso focado em NRs e NBRs para qualidade de vida e saúde ocupacional_
+📍 _Curso focado em automação industrial e instrumentação Industrial com foco em Elipse e Scada_
 
 
 ## 🏆 Certificações
