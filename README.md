@@ -30,10 +30,36 @@
 |[ Invasão de Redes Wi-fi](https://cursos.dankicode.com/validate-certificate) | Danki Code | jul/2025 
 🔑 Credencial Python: `d6703eb4-104a-48df-a877-2a57501ae595`
 
-## 💻 Habilidades Técnicas
-
-```text
 📊 Análise de Dados: Python (Pandas, NumPy), R, Excel
 💻 Programação: Python, JavaScript (Básico)
-🗃️ Banco de Dados: SQL, MySQL, Analise de Dados Avançados do Google(cursando), Analise de Dados IBM (cursando) 
+🗃️ Banco de Dados: SQL, MySQL, Analise de Dados Avançados do Google (cursando), Analise de Dados IBM (cursando) 
 🛠️ Ferramentas: Git, VS Code, Jupyter Notebook
+
+### 🛠️ Tecnologias e Ferramentas  
+
+<div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
+  <!-- Linguagens -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" title="JavaScript" />
+  
+  <!-- Banco de Dados -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="Google Cloud" title="Google Analytics" />
+  
+  <!-- Ferramentas -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" title="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git" />
+   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" 
+       width="40" 
+       style="filter: brightness(1.1); transition: transform 0.3s ease;" 
+       alt="Excel"
+       title="Microsoft Excel"
+       onmouseover="this.style.transform='scale(1.1)'"
+       onmouseout="this.style.transform='scale(1)'"> <img src="https://img.icons8.com/color/48/000000/power-bi.png" 
+       width="40" 
+       style="transition: transform 0.3s ease;" 
+       alt="Power BI"
+       title="Microsoft Power BI"
+       onmouseover="this.style.transform='scale(1.1)'"
+       onmouseout="this.style.transform='scale(1)'">
+</div>
