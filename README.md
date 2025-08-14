@@ -1,7 +1,7 @@
 # Rafael Nascimento dos Reis 👨‍💻
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-nascimento-dos-reis-6b7b18233)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/seu-usuario)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Reisbq)
 
 ## 📚 Formação Acadêmica
 
